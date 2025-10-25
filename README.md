@@ -4,12 +4,15 @@ This project demonstrates real-time object detection using OpenCV and a pre-trai
 
 This project performs real-time object detection using OpenCV and MobileNet SSD. 
 
+
 ## Features
 - Capture live video from webcam
 - Detect 20+ object classes (person, car, dog, etc.)
 - Draw bounding boxes with confidence scores
 
 ## Requirements
+<img width="1536" height="1024" alt="448374ab-1a72-4954-960c-132661988daa" src="https://github.com/user-attachments/assets/735be537-765a-40c1-b3f7-acff7b68c327" />
+
 - Python 3.x
 - OpenCV
 - Numpy
