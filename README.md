@@ -17,3 +17,4 @@ This project performs real-time object detection using OpenCV and MobileNet SSD.
 ## Run
 ```bash
 python object_detection.py
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ac252670-f970-4bd3-acb6-35d3372c38c9" />
