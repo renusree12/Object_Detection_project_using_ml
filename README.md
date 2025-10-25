@@ -11,7 +11,6 @@ This project performs real-time object detection using OpenCV and MobileNet SSD.
 - Draw bounding boxes with confidence scores
 
 ## Requirements
-<img width="1536" height="1024" alt="448374ab-1a72-4954-960c-132661988daa" src="https://github.com/user-attachments/assets/735be537-765a-40c1-b3f7-acff7b68c327" />
 
 - Python 3.x
 - OpenCV
@@ -23,5 +22,5 @@ python object_detection.py
 
 
 Image
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6a41bcb7-dff2-4e0b-9641-2a796fd80da4" />
+<img width="1536" height="1024" alt="448374ab-1a72-4954-960c-132661988daa" src="https://github.com/user-attachments/assets/735be537-765a-40c1-b3f7-acff7b68c327" />
 
