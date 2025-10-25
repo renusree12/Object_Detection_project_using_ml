@@ -23,5 +23,5 @@ This project performs real-time object detection using OpenCV and MobileNet SSD.
 python object_detection.py
 
 ## Image
-<img width="1536" height="1024" alt="448374ab-1a72-4954-960c-132661988daa" src="https://github.com/user-attachments/assets/735be537-765a-40c1-b3f7-acff7b68c327" />
 
+-<img width="1536" height="1024" alt="448374ab-1a72-4954-960c-132661988daa" src="https://github.com/user-attachments/assets/735be537-765a-40c1-b3f7-acff7b68c327" /
